@@ -27,6 +27,6 @@ First you need to install the following libraries in your base or a new Python o
 * matplotlib==3.7.1
 * seaborn==0.12.2
 
-Make sure you also have numpy, enum and math. An easier solution is to install all the libraries at once [using the AB-LCA.yml file](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) in the [ACLCA_Workshop_AB-LCA repository](https://github.com/jwalzberg/ACLCA_Workshop_AB-LCA).
+Make sure you also have enum, math, and random. An easier solution is to install all the libraries at once [using the AB-LCA.yml file](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) in the [ACLCA_Workshop_AB-LCA repository](https://github.com/jwalzberg/ACLCA_Workshop_AB-LCA).
 
 Then you need to activate the environment (or stay on the base if you added the libraries to your base environment) by clicking Kernel and "change kernel" in the Jupyter notebook menu (you should see the name of the environment as kernel option). If all the libraries are installed, the cell below should run without any issues.

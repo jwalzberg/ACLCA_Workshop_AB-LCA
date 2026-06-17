@@ -1,11 +1,5 @@
 # <center> An Introduction to Agent-Based Life Cycle Assessment with Python </center>
 
-## Easiest way to get started
-
-Click on the following link: https://colab.research.google.com/drive/1-F-z7ryuONBsyv_cBJNS1jke_tK0uUhQ#scrollTo=tRe2V82IBxfN
-
-## Using the files in this repo
-
 This is an introduction to agent-based life cycle assessment (AB-LCA). This notebook will cover the basics of agent-based modeling (ABM) with Mesa, a Python library dedicated to facilitate the building of agent-based models. Then it will present a simple AB-LCA model on plastic recycling that leverages both Mesa and Brightway2, an open source Python framework for LCA.
 
 At the end of this notebook, you will be able to:
@@ -21,7 +15,11 @@ This introduction is written in an Jupyter notebook, an online scientific notebo
 
 You should **download the notebook** in this repository and follow along!
 
-## Getting started
+## Easiest way to get started
+
+Click on the following link: https://colab.research.google.com/drive/1-F-z7ryuONBsyv_cBJNS1jke_tK0uUhQ#scrollTo=tRe2V82IBxfN
+
+## Using the files in this repo
 
 First you need to install the following libraries in your base or a new Python or Conda environment (see [Managing conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)):
 

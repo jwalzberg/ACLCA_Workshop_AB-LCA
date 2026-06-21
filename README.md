@@ -17,7 +17,7 @@ You should **download the notebook** in this repository and follow along!
 
 ## Easiest way to get started
 
-Click on the following link: https://colab.research.google.com/drive/1-F-z7ryuONBsyv_cBJNS1jke_tK0uUhQ#scrollTo=tRe2V82IBxfN
+Click on the following link: [https://colab.research.google.com/drive/1-F-z7ryuONBsyv_cBJNS1jke_tK0uUhQ#scrollTo=tRe2V82IBxfN](https://colab.research.google.com/drive/1-F-z7ryuONBsyv_cBJNS1jke_tK0uUhQ?usp=sharing)
 
 ## Using the files in this repo
 
